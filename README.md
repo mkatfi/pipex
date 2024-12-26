@@ -3,10 +3,8 @@
 
 
 *A project to recreate UNIX pipe functionality in C.*  
-![pipex Banner]
-[Uploading DALL·E 202<?xml version="1.0" encoding="utf-8"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
-RequestId:d236f092-801e-007a-51e2-57e2ef000000
-Time:2024-12-26T22:05:37.0687700Z</Message><AuthenticationErrorDetail>Signed expiry time [Thu, 26 Dec 2024 22:02:26 GMT] must be after signed start time [Thu, 26 Dec 2024 22:05:37 GMT]</AuthenticationErrorDetail></Error>4-12-26 23.05.36 - A creative and imaginative concept for a programming project inspired by 'pipex'. The scene shows a futuristic, glowing pipeline system that transfers.webp…]()
+![pipex Banner](https://github.com/user-attachments/assets/1b8df109-0cd0-450c-8374-d46e7512f52d)
+
 
 ---
 
@@ -141,7 +139,3 @@ cat -e < input.txt | wc -l > output.txt
    ```bash  
    cat output.txt  
    ```  
-
-### Use Testers  
-You can also use GitHub testers to validate your implementation:  
-- [Pipex Tester by Tripouille](https://github.com/Tripouille/pipexTester)  
